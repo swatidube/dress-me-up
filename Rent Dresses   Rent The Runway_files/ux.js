@@ -1,2 +1,0 @@
-window.RTR = window.RTR || {};
-window.RTR.UX = {"auth_status":"anonymous","experiments":{"exp":{"4":2,"1":3,"2":2,"7":2,"9":3,"15":1,"16":2,"13":3,"20":1,"19":1,"18":1,"22":1,"21":1},"seg":["ca","anon","modern_browser","paloalto","apple_device","us"]},"order_groups":null,"has_orders":false};
